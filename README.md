@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Deepak Sethi
 
-<!--
-**Deepak-Sethiii/Deepak-Sethiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 3rd Year B.Tech in Electronics & Communication  
+🏫 Delhi Technological University (DTU), India  
+🤖 Passionate about Machine Learning, Deep Learning, and AI  
+💻 Currently building **8 ML Projects in 8 Weeks** to level up my GitHub and LinkedIn
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- Python • NumPy • Pandas • scikit-learn • Matplotlib
+- Streamlit • PyCharm • Jupyter • Git/GitHub
+- PyTorch (beginner, but growing daily 💪)
+- Deployment coming soon: Streamlit Cloud, HuggingFace Spaces
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Focus Areas
+- Recommender Systems
+- LLM-powered NLP tools
+- ML for Finance and Real-World Data
+- GitHub streak + strong portfolio building
+
+## 🔗 Connect with Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/deepak-sethi-a941b5288)
+- ✉️ dpksethiii@gmail.com
+
+---
+
+### 📈 Week-by-Week Projects
+| Week | Project                            | Status |
+|------|------------------------------------|--------|
+| 1    | Movie Recommender System           | ✅ Done |
+| 2    | (Your next project – to be added)  | ⏳ Coming |
+| ...  | ...                                | ...    |
+
+> I'm actively learning, building, and sharing. Let's connect and grow together. If you're building ML tools too, I’d love to collaborate.
+
+
+
